@@ -1,13 +1,13 @@
-package cl.grower.plantdatamanagement.demo;
+package cl.growerhelper.std_userdatamanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class StdUserdatamanagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(StdUserdatamanagementApplication.class, args);
 	}
 
 }

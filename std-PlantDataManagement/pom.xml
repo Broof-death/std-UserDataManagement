@@ -8,10 +8,10 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cl.grower.plantdatamanagement</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>cl.growerhelper</groupId>
+	<artifactId>std-plantdatamanagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>std-plantdatamanagement</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

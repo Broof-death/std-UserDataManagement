@@ -1,13 +1,13 @@
-package cl.grower.growerhelper;
+package cl.growerhelper.std_plantdatamanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GrowerhelperApplication {
+public class StdPlantdatamanagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GrowerhelperApplication.class, args);
+		SpringApplication.run(StdPlantdatamanagementApplication.class, args);
 	}
 
 }
